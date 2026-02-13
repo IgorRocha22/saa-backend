@@ -1,4 +1,4 @@
-package com.ignrocha.saa.backend.cofig;
+package com.ignrocha.saa.backend.config;
 
 import com.ignrocha.saa.backend.model.Animal;
 import com.ignrocha.saa.backend.model.enums.AnimalAge;
